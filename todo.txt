@@ -2,3 +2,4 @@ todo
 
 angular
 - dependency injection
+- filter

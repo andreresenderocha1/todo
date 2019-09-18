@@ -3,3 +3,4 @@ todo
 angular
 - dependency injection
 - filter
+- messages (angular modules in official documentation)

@@ -5,4 +5,4 @@ angular
 - filter
 - messages (angular modules in official documentation)
 - why pass array in controller definition (minification change to a or b and angular doesn't recognize a or b... just '$log'.. .etc)
-- ways how angular put variable in watch automatically 
+- ways how angular put variable in watch automatically aaaa 

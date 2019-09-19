@@ -4,3 +4,4 @@ angular
 - dependency injection
 - filter
 - messages (angular modules in official documentation)
+- why pass array in controller definition (minification change to a or b and angular doesn't recognize a or b... just '$log'.. .etc)

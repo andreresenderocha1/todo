@@ -8,3 +8,4 @@ angular
 - ways how angular put variable in watch automatically aaaa 
 - look all the directives of angularjs
 - services (singletons)
+- custom services
